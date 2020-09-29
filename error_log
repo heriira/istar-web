@@ -1,0 +1,4 @@
+[26-Apr-2020 06:42:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/istarind/public_html/application/config/config.php on line 26
+[26-Apr-2020 06:42:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[26-Apr-2020 06:45:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/istarind/public_html/application/config/config.php on line 26
+[26-Apr-2020 06:45:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
